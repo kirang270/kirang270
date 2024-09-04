@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hello there, my name is Kiran and I am from India. I am a passionate software engineer currently working as a Sr. DevOps Engineer in an Ed-tech company. <br>I am working on various AWS cloud services and DevOps practices. I like to learn new skills in my job profile.
+Hello there, my name is Kiran and I am from India. I am a passionate software engineer currently working as a Sr. Cloud & DevOps Engineer in Academian Inc. <br>I am working on various AWS cloud services and DevOps practices. I like to learn new skills in my job profile.
 
 
 ## 🌐 Socials:
